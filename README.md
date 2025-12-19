@@ -172,10 +172,10 @@ flutter build web --release
 Screenshots of the application will be displayed here. Add your screenshot paths:
 
 
-- Dashboard: `![Dashboard Screen](screenshots/Dashboad.jpg)`
-- Add Transaction: `![Analytics Screen](screenshots/Analytics.jpg)`
-- Analytics: `![Transaction Screen](screenshots/Transaction.jpg)`
-- Currency Converter: `![Currency Screen](screenshots/Currency.jpg)`
+- Dashboard: ![Dashboard Screen](screenshots/Dashboad.jpg)
+- Add Transaction: ![Analytics Screen](screenshots/Analytics.jpg)
+- Analytics: ![Transaction Screen](screenshots/Transaction.jpg)
+- Currency Converter: ![Currency Screen](screenshots/Currency.jpg)
 
 
 
