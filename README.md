@@ -172,15 +172,12 @@ flutter build web --release
 Screenshots of the application will be displayed here. Add your screenshot paths:
 
 
-- Dashboard: `[Add screenshot link]`
-- Add Transaction: `[Add screenshot link]`
-- Analytics: `[Add screenshot link]`
-- Currency Converter: `[Add screenshot link]`
+- Dashboard: `![Dashboard Screen](screenshots/Dashboad.jpg)`
+- Add Transaction: `![Analytics Screen](screenshots/Analytics.jpg)`
+- Analytics: `![Transaction Screen](screenshots/Transaction.jpg)`
+- Currency Converter: `![Currency Screen](screenshots/Currency.jpg)`
 
-To display screenshots on GitHub:
-- Store screenshots in a `screenshots/` folder in the repository
-- Use relative paths: `![Home Screen](screenshots/home.png)`
-- Or use direct image URLs for external hosting
+
 
 ## Contributing
 
