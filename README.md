@@ -61,7 +61,7 @@ A comprehensive Flutter application for tracking expenses, managing transactions
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Kingitlimited/expense.git>
 cd expencetracker
 ```
 
@@ -179,13 +179,7 @@ Screenshots of the application will be displayed here. Add your screenshot paths
 
 
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
@@ -193,7 +187,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email support@expensetracker.com or create an issue in the repository.
+For support, email kingrizviahmmed@gmail.com or create an issue in the repository.
 
 ---
 
